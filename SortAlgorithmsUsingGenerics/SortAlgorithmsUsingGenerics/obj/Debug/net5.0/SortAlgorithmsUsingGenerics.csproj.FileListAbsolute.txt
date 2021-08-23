@@ -1,0 +1,16 @@
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\SortAlgorithmsUsingGenerics.exe
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\SortAlgorithmsUsingGenerics.deps.json
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\SortAlgorithmsUsingGenerics.runtimeconfig.json
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\SortAlgorithmsUsingGenerics.runtimeconfig.dev.json
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\SortAlgorithmsUsingGenerics.dll
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\ref\SortAlgorithmsUsingGenerics.dll
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\bin\Debug\net5.0\SortAlgorithmsUsingGenerics.pdb
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.AssemblyInfoInputs.cache
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.AssemblyInfo.cs
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.dll
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\ref\SortAlgorithmsUsingGenerics.dll
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.pdb
+C:\Users\mvsan\source\repos\SortAlgorithmsUsingGenerics\SortAlgorithmsUsingGenerics\obj\Debug\net5.0\SortAlgorithmsUsingGenerics.genruntimeconfig.cache
